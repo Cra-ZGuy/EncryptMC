@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptMC", "EncryptMC.csproj", "{F6FD4BCA-FB8B-4D96-9272-FFC531B1E604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FD4BCA-FB8B-4D96-9272-FFC531B1E604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FD4BCA-FB8B-4D96-9272-FFC531B1E604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FD4BCA-FB8B-4D96-9272-FFC531B1E604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FD4BCA-FB8B-4D96-9272-FFC531B1E604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E17F41-CEE9-4562-86ED-CA31E3F9201D}
+	EndGlobalSection
+EndGlobal
