@@ -1,21 +1,25 @@
-# EncryptMC
+﻿# 🔒 EncryptMC
 
-EncryptMC is a utility tool for encrypting Minecraft Bedrock edition resource packs.
+EncryptMC is a utility tool for encrypting Minecraft Bedrock Edition resource packs.
 
-## Features
+## ⚠️ Disclaimer
 
-- Command line and interactive modes.
-- Uses parallel processing for efficiency.
+An encrypted pack will not be readable unless it is properly integrated with server software OR if its UUID and content key matches an existing Marketplace pack. Ensure these requirements are met to use the encrypted pack effectively.
 
-## Usage
+## ✨ Features
 
-### Command Line
+- ⚙️ Command-line and interactive modes.
+- 🚀 Utilizes parallel processing for improved efficiency.
+
+## 📋 Usage
+
+### 🖥️ Command Line
 
 ```bash
 EncryptMC.exe <inputPath> <outputPath> <contentKey>
 ```
 
-### Interactive
+### 💬 Interactive
 
 - Run the executable. (without any arguments)
 - Enter the input path, output path, and content key when prompted.
